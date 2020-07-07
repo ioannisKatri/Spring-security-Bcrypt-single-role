@@ -7,7 +7,7 @@
 -docker
 
 
-## Instalation
+## Installation
 
 1. Add to the hosts file -> **dev.security.com** OR change the default url inside to the preferred one -> .docker/tomcat/server.xml
 
